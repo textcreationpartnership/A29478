@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Briefe relation of the proceedings of our army in Ireland, since the tenth of June to this present Iuly 1642 together with the petition of the Parliament there assembled, to the lords, iustices, and counsell.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29478</idno>
+            <idno type="STC">Wing B4633</idno>
+            <idno type="STC">ESTC R1605</idno>
+            <idno type="EEBO-CITATION">12688637</idno>
+            <idno type="OCLC">ocm 12688637</idno>
+            <idno type="VID">65797</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29478)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65797)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 252:E154, no 33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Briefe relation of the proceedings of our army in Ireland, since the tenth of June to this present Iuly 1642 together with the petition of the Parliament there assembled, to the lords, iustices, and counsell.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. Oulton and G. Dexter for Benjamin Allen,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:65797:1"/>
+            <!-- PDF PAGE 54 -->
+            <pb facs="tcp:65797:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 54 -->
+            <p>A Briefe RELATION OF The Proceedings <hi>OF</hi> Our Army in IRELAND, ſince the Tenth of <hi>June</hi> to this preſent <hi>Iuly</hi> 1642.</p>
+            <p>TOGETHER With the <hi>Petition</hi> of the <hi>Parliament</hi> there Aſſembled, To the Lords, Iuſtices, and Counſell.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON.</hi> Printed by <hi>R. Oulton.</hi> and <hi>G. Dexter</hi> for <hi>Benjamin Allen.</hi> An. D. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account_of_army_proceedings">
+            <pb n="2" facs="tcp:65797:2"/>
+            <!-- PDF PAGE 55 -->
+            <head>A Briefe Relation of the Paſſages of our <hi>ARMIE.</hi>
+            </head>
+            <p>TVESDAY the 10. of <hi>Iune,</hi> about 12 a clock at noone, our Armie departed from <hi>Dublin:</hi> There went 6. companies under the command of Lievtenant Colonell <hi>Monke,</hi> 50. of my Lord of <hi>Ormonds:</hi> Foure under the command of Sir <hi>Francis Wil<g ref="char:EOLhyphen"/>lowbie:</hi> Five under my Lord <hi>Lamberts:</hi> under the command of Sir <hi>Georg Thylock:</hi> Foure of Collonell <hi>Crafford,</hi> under his own command: Nine of my Lord <hi>Iones</hi> Regiment: 9 of Sir <hi>Michaell Herles</hi> Regiment: and 9. of Collonell <hi>Cromwells</hi> regiment: Of Horſe, there was my Lord Lieutenants Troop, my Lord of <hi>Or<g ref="char:EOLhyphen"/>monds</hi> Troop, my Lord <hi>Burlaſe</hi> Troop: Sir <hi>George Wentworths</hi> Troop; Sir <hi>Thomas Lucas</hi> Troop, Captaine <hi>Mawhs</hi> Troop: Cap<g ref="char:EOLhyphen"/>taine <hi>Villers</hi> Troop, Sir <hi>Richard Greenvills</hi> Troop; Captain <hi>Arm<g ref="char:EOLhyphen"/>ſtrongs</hi> Troop; Captaine <hi>Maſons</hi> Troop, and two other Troops, whoſe Captaines names I have forgot: we had like wiſe 7 Braſſe Peeces, The firſt night wee marched about 7. miles from <hi>Dublin,</hi> where wee quartered that night: and the next morning being Wedneſday, there was ſent from the Armie Captaine <hi>Garners</hi> Troop, and my Lord of <hi>Ormonds</hi> Troop; Captaine <hi>Marrowes</hi> Troop; Captaine <hi>Stuerfi<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lds</hi> 1000 Compan<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and three Peeces of Ordinance that carried about 6 pound bullet; wee left the Ar<g ref="char:EOLhyphen"/>mie, and marched with the foreſaid Companie to a Caſtle wide of <hi>Trym,</hi> a garriſon place, a Caſtle called <hi>K<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ock Linch:</hi> belong<g ref="char:EOLhyphen"/>ing to one Mr. <hi>Linch,</hi> there we found about 1500 of our men that had beſieged the Caſtle 2. dayes before, and had been very fiercely at it, wee found at our comming to them that they had loſt about 40. men; along with the foreſaid companies we came
+<pb n="3" facs="tcp:65797:2"/>
+               <!-- PDF PAGE 55 -->with the Ordinance, there came alſo 200 Fire-locks, who at our firſtcomming, placed themſelves round about the Caſtle in the Trenches and Dikes till the orduance were planted: which in two houres were planted: and plaid upon the Caſtell, for the ſpace of 6 or 8 houres, the Rogues within the Caſtell, ſtill defy<g ref="char:EOLhyphen"/>ing us, ſaying, Be gone yee Parliament Rebells, you that fight a<g ref="char:EOLhyphen"/>gainſt your King, and many upbraiding words, they had fortified the Caſtell very ſtrongly; the Caſtell likewiſe being a ſtrong ſtately place, amongſt the reſt of our men, Lievt. Colonell <hi>Kirke</hi> was ſhot very dangerouſly with two Bullets in the back; but whe<g ref="char:EOLhyphen"/>ther he be ſince dead, we know not certaine; for hee was left in the Chirurgeons hands at <hi>Trime;</hi> About 6 a clock at night our men entred one part of the Caſtell very couragiouſly, ruſhing through great dangers, with their beating and throwing downe of ſtones from out the Caſtell, at laſt, when they had no ſhot left, they fell a throwing of ſtones, and left not ſo much as the Tiles upon the houſe, and at even, when the Caſtle was moſt part all on fire, they got into a Tower, where was a ſtrong Battlement; and there did ſtand the chiefeſt of them; whereof one, as wee heare, was one <hi>Matthew Plunket,</hi> who ſtood up, and asked if there would be quarter granted to them, it was replied, there would; no ſayes hee, I will beleeve none of you, Let ſome Honourable man ſpeake, as my Lord <hi>Lambert,</hi> or the like; or ſaith hee, where is Captaine <hi>Grace,</hi> that I may ſpeake with him, hee likewiſe fetch'd Miſtris <hi>Boothes</hi> Child, and ſhewed it to him alive; no per<g ref="char:EOLhyphen"/>ſwaſion could bring them downe; although they had put a great rope out to come downe by: they were very timerous, the Com<g ref="char:EOLhyphen"/>mon Souldiers would fall upon them; and ſo drave away the time till it was darke; that night the Souldiers lay about the Caſtle, and next morning did doe as good as dwell with them; it was thought there was about 600. in the Caſtle, which were put to the ſword; very ſtout fellowes there were; Our Armie lay that night hard by <hi>Trim,</hi> where our Forces, that lay before the Caſtell, did likewiſe draw themſelves.</p>
+            <p>Thurſday, our men took another Caſtle, called <hi>Tremellſtowne,</hi> where the Rogues ſtole away, and left all within to them.</p>
+            <p>
+               <hi>Friday</hi> wee marched through <hi>Athboie,</hi> a Faire Towne, which the Rogues had burned to the ground, to prevent us from lea<g ref="char:EOLhyphen"/>ving
+<pb n="4" facs="tcp:65797:3"/>
+               <!-- PDF PAGE 56 -->any Garriſon there that night we came to the Earl of <hi>Weſt<g ref="char:EOLhyphen"/>meaghes:</hi> the Foot quartered a Mile of this ſide the Earles houſe.</p>
+            <p>The Earle of ORMOND and many of the Chiefeſt Comman<g ref="char:EOLhyphen"/>ders lay there that night, he beſtowed Beare, Bread and Meat ve<g ref="char:EOLhyphen"/>ry plentifully, on our Souldiers.</p>
+            <p>The next morning we marched and not three miles from the Earles houſe: our Dragoneirs going before, came to a Caſtle which the Rogues had ſtrongly intrenched and cut off the way and made a redoubt or 2 to hinder our paſſage, but our men beat them off, and killed about 14. of them: the Rogues did run ſtill before us and burnt all the Townes before us, that wee might have no houſes to lie in: Burnt MOLLINGER where the FOOTE was to Quarter the next Night:</p>
+            <p>So the Foot were faine to lie in the Field, and the Horſe lay in <hi>Mollinger</hi> that night, the Townes people ran all away, and got all their goods unto on Iſland hard by. The next Day being Sun<g ref="char:EOLhyphen"/>day morning, we marched from <hi>Mullinger,</hi> and about 5 miles be<g ref="char:EOLhyphen"/>yond <hi>Mollinger,</hi> wee came to a Caſtle belonging to one Mr. <hi>Tinte</hi> which wee found verie ſtrongly Fortified and entrenched with mightie Trenches, our Men entered the Caſtle and found no bodie in it, but ſtore of proviſion and abundance of good Beere, this <hi>Tintes</hi> Brother was taken hard by the Caſtle and kil<g ref="char:EOLhyphen"/>led, our Men ranſacked the Caſtle and ſo left it: The ſame Night wee came to a place called <hi>Ballimore,</hi> which the Rogves had likewiſe burnt that day: next morning following Forces were drawne out to goe for <hi>Athlove,</hi> my Lord Preſident of <hi>Con<g ref="char:EOLhyphen"/>nagh</hi> Caſtle, my Lord <hi>Jones</hi> Regiment Sir <hi>Michael Herles,</hi> there went along the Earle of <hi>Ormond</hi> my Lord <hi>Lile</hi> Sir <hi>George Went<g ref="char:EOLhyphen"/>worth</hi> and many more: And within 5 <hi>miles</hi> of <hi>Ahchalon,</hi> we met my Lord Preſident of <hi>Connagh,</hi> who came to meet the Earl with about 50 <hi>Horſe</hi> and 200 Foot, which was his greateſt ſtrength and preſently after came young Sir <hi>Charles Coote</hi> with his Troop of compleat men: after an houre or two ſtaied in the Field the Earle of <hi>Ormond</hi> tooke leave of the Preſident, and left with him the 2 foreſaid Regiments, the Lord of <hi>Ormond</hi> returned that night to our <hi>Armie,</hi> and my Lord <hi>Lile</hi> with 5 Troop of Horſe ac<g ref="char:EOLhyphen"/>companied my Lord Preſident to <hi>Athalon.</hi> There wee found
+<pb n="5" facs="tcp:65797:3"/>
+               <!-- PDF PAGE 56 -->good ſtore of everie thing: for Sir <hi>Iames Dillon</hi> who had lai<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſiege before <hi>Athlove</hi> ever ſince <hi>Chriſtmas,</hi> &amp; left the ſiege 2 dayes before wee came there, they run away and left all; hearing the Engliſh Armie was comming that way. Them in thoſe parts ap<g ref="char:EOLhyphen"/>plauding young Sir <hi>Charles Coot</hi> very much, having done a great deale of good ſervice in the County of <hi>Roſecomon</hi> and thoſe parts and for releiving <hi>Athlove</hi> twiſe whileſt it was beſieged.</p>
+            <p>At <hi>Ballimore</hi> where our Army lay, the Lord <hi>Nevtervill</hi> had intrenched <hi>Kymkelfe</hi> in a faire Caſtle very ſtrong, but hearing of our comming left it and fled away. And a priſoner whom we tooke there, did confeſſe the Lord <hi>Nutervill</hi> had given order for the burning, if all thoſe Townes be for the <hi>Engliſh</hi> Army: In <hi>Ballunore</hi> we found great ſtore of Salt, and there is now too much with the Rebells which they have from <hi>Galloway,</hi> doe now buy it for two quarts a peny, and ſome of them acknowledged not long ſince it was worth 5. pence a quart. The ſame day ſome of my Lord <hi>Lamberts Regiment</hi> brought away the <hi>Engliſh</hi> were in <hi>Kilbegan.</hi> Wee likewiſe left two ſmall pieces at <hi>Athlove:</hi> the next day my Lord <hi>Lile</hi> came from <hi>Athlove.</hi> And we came to <hi>Ballimore,</hi> wee found the Army gone, and inſtantly met with Sir <hi>Richard Greenvill</hi> and his Troope, who went with us to the Armie, who quartered that night in the fields, ſo we marched next day with<g ref="char:EOLhyphen"/>out any thing remarkable, The next day we came to a place cal<g ref="char:EOLhyphen"/>led <hi>Killmkin</hi> which place belongeth to (Iudge) <hi>Donellan</hi> and about 2. miles of this ſide we were to paſſe a way which lies be<g ref="char:EOLhyphen"/>tween 2 Bogs, which we found ſo ſtro<g ref="char:cmbAbbrStroke">̄</g>gly entre<g ref="char:cmbAbbrStroke">̄</g>ched with redouts and many ſtrong Fortifications, theſe works were made, thinking that wee would take our way to <hi>Athalon</hi> through that part of the Countrie. But comming home, wee came by the back part of it. And were faine to ſtand there at leaſt three houres, before we could caſt it down, to get paſſage through: that night we were quartered in the Fields by a wood ſide; our men got that Night at leaſt a 1000 Cowes, about <hi>Sun,</hi> ſet wee had an <hi>Alarme,</hi> there comes 2 Rogves out of the wood to Coronell <hi>Craffords</hi> quarter, thinking it had beene there owne Collours, ſo were inſtantly ſlain. That night was a cruell night raining with extreme cold killed ſome of our men, and many lies ſicke in their garriſons, next day we marched to <hi>Kilrock</hi> and ſo to <hi>Dublin.</hi>
+            </p>
+         </div>
+         <div type="Parliamentary_petition">
+            <pb n="6" facs="tcp:65797:4"/>
+            <!-- PDF PAGE 57 -->
+            <head>The humble Declaration and Petition of the Lords <hi>Spiri<g ref="char:EOLhyphen"/>tuall</hi> and <hi>Temporall,</hi> and <hi>Commons</hi> in PARLIA<g ref="char:EOLhyphen"/>MENT aſſembled.</head>
+            <opener>Humbly declareth</opener>
+            <p>
+               <seg rend="decorInit">T</seg>HAT the Religion now profeſſed by the Church of <hi>Rome</hi> (which in fundamentall points is Antichriſti<g ref="char:EOLhyphen"/>ſtian) hath of late yeares extraordinarily overſpread this Kingdome, and hath the more encreaſed by the forbearing, to put in execution the wholſome <hi>Lawes,</hi> and <hi>Statutes</hi> of force in this Kingdome, againſt Recuſants and others of the <hi>Romiſh</hi> Religion, who have of late time more then formerly extreamely ſwarmed in this Kingdome, and whereas it evidently appeares that the ſaid Antichriſtian and Hereticall Religion, and the not putting of the ſaid <hi>Lawes</hi> in execution, hath as the fruits and effects thereof, produced a generall confe<g ref="char:EOLhyphen"/>deracy of the <hi>Papiſts</hi> in this Kingdome, to deſtroy and extirpe the Proteſtant Religion, and all <hi>Engliſh, Scottiſh</hi> and <hi>Iriſh</hi> in this Kingdome profeſſing the ſame, wherein they have actually pro<g ref="char:EOLhyphen"/>ceeded to execrable cruelties (without any provocation given them by his ſacred Majeſtie, by the State and Government, or any Acts of Proteſtants or any others (the intending utterly to caſt of the <hi>Engliſh</hi> Government, and moſt Royall authority of our Soveraigne Lord the King, and where divers of the <hi>Romiſh</hi> Religion, have in all parts of this Kingdome ſince the two and twentieth day of <hi>October</hi> laſt, inhumanely uſed moſt bloudy and unheard of barbarous Actions againſt the perſons, as well of the <hi>Clergy</hi> as of moſt of the Proteſtant Religion, within their power not only while life laſted, but even after death digging ſome of them out of their graves, cutting them in peeces and caſting them into ditches, defiling of Churches, and ſetting up the abominable <hi>Idoll</hi> of the <hi>Maſſe</hi> in ſtead of Gods true worſhip and ſervice, and in ſcornefull and reproachfull manner, tramp<g ref="char:EOLhyphen"/>ling under foote the Holy Bible, and diſdainefully burning it, and have by the ſaid cruelties already deſtroyed many thouſand <hi>Proteſtants,</hi> and of thoſe that remaine and eſcaped their fury,
+<pb n="7" facs="tcp:65797:4"/>
+               <!-- PDF PAGE 57 -->moſt of them have beene enforced to flie into <hi>England</hi> or <hi>Scot<g ref="char:EOLhyphen"/>land</hi> for reliefe, or to beg the charity of well diſpoſed people here.</p>
+            <p>The ſaid <hi>Lords</hi> and <hi>Commons</hi> duely conſidering the Premiſſes, and the great diſhonour done to his Majeſty, to the <hi>Engliſh</hi> Na<g ref="char:EOLhyphen"/>tion, and indeed to all his Majeſties Kingdomes by the ſaid moſt wicked Rebellion, plotted and enacted by Titular <hi>Biſhops, Abbots, Ieſuits, Friers, Prieſts, Monks,</hi> and others of the <hi>Re<g ref="char:EOLhyphen"/>miſh Religion,</hi> doe humbly expreſſe their deteſtation (thereof, and their humble deſire of a thorough Reformation of <hi>Religion</hi> may be had in this Kingdome, to the glory of God and the ho<g ref="char:EOLhyphen"/>nour of his Sacred Majeſty, and to that end humbly pray that a preſent and effectuall courſe may be taken, for putting in exe<g ref="char:EOLhyphen"/>cution the <hi>Lawes</hi> and <hi>Statutes</hi> of force in this Kingdome, againſt Recuſants, and all others of the <hi>Popiſh</hi> pretended <hi>Religion</hi> in all parts of this Kingdome, where the <hi>Lawes</hi> doe or may run and for ſuppreſſing the uſurped power, and Iuriſdiction of the Sea of <hi>Rome,</hi> and particularly in the City of of <hi>Dublin,</hi> which is now the City of Refuge for moſt of the diſtreſſed and diſpoy<g ref="char:EOLhyphen"/>led <hi>Proteſtants</hi> of this Kingdom who are not without juſt fears of imminent dangers by reaſon of the multitude of <hi>popiſh</hi> inhabi<g ref="char:EOLhyphen"/>tants, and they doe pray that it may bee given in charge to all his Majeſties Officers, whom it may concerne faithfully, and with<g ref="char:EOLhyphen"/>out delay to proceed therein, and that monethly Seſſions be held for that purpoſe in the ſaid City of <hi>Dublin,</hi> That Bills may bee forth-with tranſmitted into <hi>England,</hi> concerning all ſuch <hi>Lawes</hi> as are now of force there againſt all <hi>Ieſuits, Prieſts, Eryers, Monks,</hi> and other ſuperſtitious <hi>Orders,</hi> and ſocieties of the <hi>popiſh</hi> pre<g ref="char:EOLhyphen"/>tended <hi>Clergy,</hi> and their relievers, and againſt Recuſants, and other <hi>Papiſts</hi> to be enacted in this Kingdome.</p>
+            <p>And ſuch further <hi>Lawes</hi> as are or ſhall bee needfull in that be<g ref="char:EOLhyphen"/>halfe, and that ſuch neceſſary expreſſions and proviſions may be therein made, as may bee agreeable with the conſtitution of this Kingdome, and may give hopefull and comfortable aſſu<g ref="char:EOLhyphen"/>rance to your Suppliants and their Poſterity, and to all other of the Proteſtant <hi>Religion,</hi> who are or ſhall be in this Kingdome.</p>
+            <p>That it may not be in the power of any Governour or Go<g ref="char:EOLhyphen"/>vernours, of this Kingdom to ſuſpend inhibite or connive at the
+<pb n="8" facs="tcp:65797:5"/>
+               <!-- PDF PAGE 58 -->execution of the ſaid Laws, or any of them, and to this end that your Lordſhips, who are intruſted by his Majeſtie, with the Go<g ref="char:EOLhyphen"/>verment of this Kingdome, and muſt one day give an accompt thereof, before the Tribunall of Gods Juſtice, will give preſent order for performing your ſuppliants requeſts herein expreſſed, and although ſince this moſt hideous and bloody Rebellion be<g ref="char:EOLhyphen"/>gun, wee have ſome ſuccours out of <hi>England,</hi> which wee aſcribe to the great mercy of <hi>God,</hi> in the great wiſedome and pietie of his ſacred <hi>Majeſtie,</hi> and in the carefull and chargeable indea<g ref="char:EOLhyphen"/>vours of the <hi>Parliament</hi> and Kingdome of <hi>England,</hi> which his Majeſties grace and goodneſſe, wee with the duty and loyaltie of faithfull Subjects, doe moſt humbly and thankfully acknow<g ref="char:EOLhyphen"/>ledge to his Koyall Majeſtie; and doe alſo render to his Parlia<g ref="char:EOLhyphen"/>ment of <hi>England:</hi> hearty thankes for their ſaid care and endea<g ref="char:EOLhyphen"/>vours for us, yet we find with inward ſorrow and grief of heart that for want of ſuch powerfull and ſpeedy ſuccour of Men mo<g ref="char:EOLhyphen"/>ney Victuall, Cloathes, Armes, Ammunition, and other requi<g ref="char:EOLhyphen"/>ſites of Warre neceſſary to bee ſent hither out of <hi>England</hi> this VVarre, for Gods cauſe, and the cauſe of his ſervants in this Kingdom, hath hitherto had but a ſlow proceeding. They ther<g ref="char:EOLhyphen"/>fore moſt humbly beſeech your Lordſhips, to repreſent to his ſacred Majeſtie their humble deſires and ſupplications, that it may ſtand with his Princely pleaſure: that an effectuall &amp; ſpee<g ref="char:EOLhyphen"/>dy courſe may be taken by his Majeſties high VViſdom, the care of the <hi>Parliament</hi> for haſting thoſe needfull ſuccours, which the ſaid <hi>Lords</hi> and <hi>Commons</hi> humbly conceive have beene hitherto retarded, longer they doubt and fear can well conſiſt with the ſafetie of this his ancient Rightfull Crowne and Kingdome and ſo by the high wiſdome and great goodneſſe of his Majeſtie, our great grief and ſorrowes converted into joy and gladneſſe, <hi>Gods</hi> true Religion may be the more firmly eſtabliſhed, his Majeſtie in wiſedome and power magnified his good Subjects comforted and his enemies, and the enemies of Gods truth diſapointed.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:65797:5"/>
+            <!-- PDF PAGE 58 -->
+            <pb n="8" facs="tcp:65797:6"/>
+            <!-- PDF PAGE 59 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:65797:6"/>
+            <!-- PDF PAGE 59 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
